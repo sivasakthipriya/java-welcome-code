@@ -1,0 +1,8 @@
+// my first programme in java//
+
+class Helloworld {
+   public static void main(string[] args)
+{
+  system.out.println("Hello world");
+}
+}
